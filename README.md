@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aniket-asati
 - 👀 I’m interested in Data related projects!
-- 🌱 I’m currently learning Machine Learning and AI algorithms!
-- 💞️ I’m looking to collaborate on almost anything related with Data, ML or AI!
+- 🌱 I’m currently learning Data Engineering Tools, Machine Learning and AI algorithms!
+- 💞️ I’m looking to collaborate on almost anything related with Data, DevOps, ML or AI!
 - 📫 How to reach me ...follow me here or send a message (checkout my Bio for more details)!
 
 <!---
